@@ -11,32 +11,32 @@ These tables should help the loot-goblin-min-max player. Here, I focus on value 
 - [Armor](docs/armor.md) - Sorted by value
 - [Ammo](docs/ammo.md) - Sorted by stack value
 - [Grenades](docs/grenade.md) - Sorted by stack value
-- Most early/mid-game weapons are not worth taking back from raid (even with mods and later repairing to 100%) - if your goal is to sell them.
-- Higher tier armors (when repaired to 100%) and full BP ammo stacks tend to offer the most value (per inventory cell).
-- During mid/end-game, the items that a loot goblin takes back to sell should be be worth at least 10K rubles per cell. From a long raid, I find myself often gathering full stacks 7.62x39 BP and 5.56x45 M995 (BP) ammo, each worth 30000 and 25500 respectively.
+- As you can see from the tables, most early/mid-game weapons are not worth taking back from raid (even with mods and later repairing to 100%) - if your goal is to sell them.
+- Higher tier armors (when repaired to 100%) and full armor-piercing (BP/AP) ammo stacks tend to offer the most value (per inventory cell).
+- During mid/end-game, the items that a loot goblin takes back to sell should be be worth at least 10K rubles per cell. From a long raid, I find myself often gathering full stacks of 7.62x39 BP and 5.56x45 M995 (BP) ammo, each worth 30000 and 25500 rubles respectively.
 
 ## Random tips for the loot goblin
 
-- You can drop off loot anywhere/anytime in a raid - rather than lugging everything around. This way, you'll minimize your stamina loss. Press Tab and you'll notice the right pane says "Ground".
+- You can **drop off loot anywhere/anytime** in a raid - rather than lugging everything around. This way, you'll minimize your stamina loss. Press Tab and you'll notice the right pane says "Ground".
   - I drop off multiple such boxes throughout a raid and come back to them later.
   - For example, before entering the Makeshift camp's laboratory, drop everything you don't need by the entrance.
   - Create these boxes in a "safe" area (somewhere with cover), so you're a bit more protected from wandering NPCs/mobs.
-- Do this at the border of the extract zone. You can create multiple boxes right on top of one another. Then you move into the extract zone (i.e. just on the otherside of the boxes) and pick/choose what you want. Make sure to watch the extract timer if you're not in Inventory and press Tab (to reset the timer) if you're not ready to leave.
-  - If you have the Mule hunter perk, then you can just slowly walk into extract rather than selecting your items from within the zone.
-  - One extract per raid will usually have some kind of extract camper, usually a hunter but sometimes mobs.
-- If you're going to scrap weapons, remember to take the attachments/ammo off.
-- If you intend on building full (level) bunker/hideout modules, collect and save rare items early: bolt cutters, car batteries, propane tanks
+- Do this at the border of the **extract zone**. You can create multiple boxes right on top of one another. Then - when you're ready to leave - move unencumbered into the extract zone (i.e. just on the otherside of the boxes) and pick/choose what you want. Make sure to watch the extract timer if you're not in Inventory and press Tab (to reset the timer) if you're not ready to leave.
+  - If you have the Mule hunter perk, then you can just walk slowly into extract rather than selecting your items from within the zone.
+  - One extract zone per raid will usually have some kind of **extract camper**, usually a hunter but sometimes mobs.
+- If you're going to scrap weapons, remember to take the attachments/ammo off, as those do not contribute the weapon scrap you get.
+- If you intend on crafting bunker/hideout modules, collect and save rare items early: bolt cutters, car batteries, propane tanks
 
 
 ## Other min/maxing
 
 - [NPC/mob table](docs/npc.md) - Maximize XP with minimal bullets!
-- You can switch out your bunker modules now. In my current run, I've made all the modules (except Garden and Lights kit) to their max levels. When I leave for a raid, I switch out my Ammo Producer, Scavenger, and Workshop for Shooting Range, Infirmary, and Gym as they give in-raid buffs. When I return, I put the first three back in, and collect the materials from Ammo Producer and Scavenger. Materials-giving modules seem to reset like that bunker traders (7AM).
+- You can **switch out** your bunker modules now. In my current run, I've made all the modules (except Garden and Lights kit) to their max levels. When I leave for a raid, I switch out my Ammo Producer, Scavenger, and Workshop for Shooting Range, Infirmary, and Gym as those give in-raid buffs. When I return, I put the first three back in, and collect the materials from Ammo Producer and Scavenger. Materials-giving modules seem to reset like that bunker traders (7AM).
 - As for scrapping weapons and armor, the amount of material produced is proportional to the item's value multiplied by its durability.
 
 <details>
 <summary>More on XP with slight spoilers</summary>
-I haven't done the math but - because of the high XP from rotfangs - I think clearing the Swamp map's sewer will give about as much XP as clearing the Makeshift Camp's laboratory (even including the second lab area that has multiple infestations).
+I haven't done the math but - because of the **high XP from rotfangs** - I think clearing the Swamp map's sewer will give about as much XP as clearing the Makeshift Camp's laboratory (even including the second lab area that has multiple infestations).
 </details>
 
 

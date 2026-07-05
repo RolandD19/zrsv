@@ -1,9 +1,10 @@
 # ZERO Sievert Tables and Guides
 
-These tables should help the loot goblin min/maxing player who does long raids (looting most of a map). Here, I focus on value per inventory cell rather than weight because you can drop loot anywhere (see tips on dropping loot below).
+These tables should help the loot-goblin-min-max player who does long raids (looting most of a map). Here, I focus on value per inventory cell rather than weight because you can drop loot anywhere (see tips below on dropping loot by extract).
 - _This is just an informational wiki (no mods) and based off the vanilla game only._
+- _All the table info were taken from the game's JSON files._
 
-Item tables (with values per Inventory cell):
+<ins>Item tables</ins> (with values per Inventory cell):
 - [Loot items](docs/bimr.md) - Various loot items, sorted value value per cell (not in tables below)
 - [Weapons](docs/weapon.cell.md) - Sorted by value per cell
 - [Armor](docs/armor.md) - Sorted by value

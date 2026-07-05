@@ -4,7 +4,7 @@ Note #1: Mine's full price is ₽4000.<br/>
 Note #2: Some grenade stats thrown in (pun intended).
 
 ₽/cell | throw_max | fuse_time | damage_max | radius_max_damage | name | label
---:|--:|--:|--:|--:|:--|:--
+--:|:-:|:-:|:-:|:-:|:--|:--
 20000 | 210 | 210 | 100 | 16 | grenade_rgn | grenade_rgn SGN Grenade
 8000 | 210 | 210 | 150 | 32 | grenade_f1 | grenade_f1 T-1 Grenade
 7000 | 210 | 90 | 0 | 24 | grenade_flash | grenade_flash Flashbang grenade

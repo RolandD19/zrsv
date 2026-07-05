@@ -10,7 +10,7 @@ These tables should help the loot-goblin-min-max player who does long raids (loo
 - [Armor](docs/armor.md) - Sorted by value
 - [Ammo](docs/ammo.md) - Sorted by stack value
 - [Grenades](docs/grenade.md) - Sorted by stack value
-- Most early/mid-game weapons are not worth taking back from raid (even with mods and later repairing to 100%).
+- Most early/mid-game weapons are not worth taking back from raid (even with mods and later repairing to 100%) - if your goal is to sell them.
 - Higher tier armors (when repaired to 100%) and full BP ammo stacks tend to offer the most value (per inventory cell).
 - During mid/end-game, the items that a loot goblin takes back to sell should be be worth at least 10K rubles per cell. From a long raid, I find myself often gathering full stacks 7.62x39 BP and 5.56x45 M995 (BP) ammo, each worth 30000 and 25500 respectively.
 
@@ -30,6 +30,7 @@ These tables should help the loot-goblin-min-max player who does long raids (loo
 
 - [NPC/mob table](docs/npc.md) - Maximize XP with minimal bullets!
 - You can switch out your bunker modules now. In my current run, I've made all the modules (except Garden and Lights kit) to their max levels. When I leave for a raid, I switch out my Ammo Producer, Scavenger, and Workshop for Shooting Range, Infirmary, and Gym as they give in-raid buffs. When I return, I put the first three back in, and collect the materials from Ammo Producer and Scavenger. Materials-giving modules seem to reset like that bunker traders (7AM).
+- As for scrapping weapons and armor, the amount of material produced is proportional to the item's value multiplied by its durability.
 
 <details>
 <summary>More on XP with slight spoilers</summary>

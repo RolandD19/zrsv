@@ -1,12 +1,13 @@
 # ZERO Sievert Tables and Guides
 
-These tables should help the loot-goblin-min-max player. Here, I focus on value per inventory cell rather than weight because you can drop loot anywhere (see tips below on dropping loot by extract).
+The tables below should help the loot-goblin-min-max player (for money and XP). Here, I focus on value per inventory cell rather than weight because you can drop loot anywhere (see tips below on dropping loot by extract).
 - _This is just an informational wiki (no mods) and based off the vanilla game._
 - _All the tables' info were taken from the game's JSON files._
+- Money is typically more of a concern for those playing on Hunter difficulty, less so for non-hardcore modes.
 
 ## Item tables (with values per Inventory cell
 
-grusa:63000+15000+15000+8500+7200+12000
+<!-- grusa:63000+15000+15000+8500+7200+12000 -->
 
 - [Loot items](docs/bimr.md) - Various loot items, sorted value value per cell (not in tables below)
 - [Weapons](docs/weapon.cell.md) - Sorted by value per cell

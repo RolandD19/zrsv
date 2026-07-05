@@ -43,7 +43,7 @@ I haven't done the math but - because of the **high XP from rotfangs** - I think
 ## Other useful tables:
 
 - [Difficulty settings](docs/difficulty.md) - Compare the difficulty settings
-- [Gun mastery skills table](docs/gun-skills.md) - Full description of all gun skills, organized a bit differently than the wiki's [Gun Mastery](https://zero-sievert.fandom.com/wiki/Gun_Mastery) page.
+- [Gun mastery/skills table](docs/gun-skills.md) - Full description of all gun mastery skills, organized a bit differently than the wiki's [Gun Mastery](https://zero-sievert.fandom.com/wiki/Gun_Mastery) page.
 
 <!-- ## Prev test -->
 

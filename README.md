@@ -1,18 +1,17 @@
 # ZERO Sievert Tables and Guides
 
-These tables should help the loot goblin min/maxing player. I focus on value per inventory cell rather than weight (see tips on dropping loot below).
+These tables should help the loot goblin min/maxing player who does long raids (looting most of a map). Here, I focus on value per inventory cell rather than weight because you can drop loot anywhere (see tips on dropping loot below).
+- _This is just an informational wiki (no mods) and based off the vanilla game only._
 
-Item tables (with value per Inventory cell):
+Item tables (with values per Inventory cell):
 - [Loot items](docs/bimr.md) - Various loot items, sorted value value per cell (not in tables below)
 - [Weapons](docs/weapon.cell.md) - Sorted by value per cell
 - [Armor](docs/armor.md) - Sorted by value
 - [Ammo](docs/ammo.md) - Sorted by stack value
 - [Grenades](docs/grenade.md) - Sorted by stack value
-
-Most early/mid-game weapons are not worth taking about (even with some mods and later repairing to 100%)
-
-Min/maxing experience gain (XP):
-- [NPC/mob table](docs/npc.md) - To min/max your XP gains! (i.e. maximize XP with minimal bullets)
+- Most early/mid-game weapons are not worth taking back from raid (even with mods and later repairing to 100%).
+- Higher tier armors (when repaired to 100%) and full BP ammo stacks tend to offer the most value (per inventory cell).
+- During mid/end-game, the items that a loot goblin takes back to sell should be be worth at least 10K rubles per cell. From a long raid, I find myself often gathering full stacks 7.62x39 BP and 5.56x45 M995 (BP) ammo, each worth 30000 and 25500 respectively.
 
 <ins>Random tips for the loot goblin:</ins>
 - You can drop off loot anywhere/anytime in a raid - rather than lugging everything around. This way, you'll minimize your stamina loss. Press Tab and you'll notice the right pane says "Ground".
@@ -23,8 +22,22 @@ Min/maxing experience gain (XP):
   - If you have the Mule hunter perk, then you can just slowly walk into extract rather than selecting your items from within the zone.
   - One extract per raid will usually have some kind of extract camper, usually a hunter but sometimes mobs.
 - If you're going to scrap weapons, remember to take the attachments/ammo off.
+- If you intend on building full (level) bunker/hideout modules, collect and save rare items early: bolt cutters, car batteries, propane tanks
 
-Other useful tables:
+
+## Other min/maxing
+
+- [NPC/mob table](docs/npc.md) - Maximize XP with minimal bullets!
+- You can switch out your bunker modules now. In my current run, I've made all the modules (except Garden and Lights kit) to their max levels. When I leave for a raid, I switch out my Ammo Producer, Scavenger, and Workshop for Shooting Range, Infirmary, and Gym as they give in-raid buffs. When I return, I put the first three back in, and collect the materials from Ammo Producer and Scavenger. Materials-giving modules seem to reset like that bunker traders (7AM).
+
+<details>
+<summary>More on XP with slight spoilers</summary>
+I haven't done the math but - because of the high XP from rotfangs - I think clearing the Swamp map's sewer will give about as much XP as clearing the Makeshift Camp's laboratory (even including the second lab area that has multiple infestations).
+</details>
+
+
+## Other useful tables:
+
 - [Difficulty settings](docs/difficulty.md) - Compare the difficulty settings
 - [Gun mastery skills table](docs/gun-skills.md) - Full description of all gun skills, organized a bit differently than the wiki's [Gun Mastery](https://zero-sievert.fandom.com/wiki/Gun_Mastery) page.
 

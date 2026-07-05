@@ -1,6 +1,6 @@
 # ZERO Sievert Tables and Guides
 
-These tables should help the loot goblin min/maxing player. I focus on value per inventory cell rather than weight.
+These tables should help the loot goblin min/maxing player. I focus on value per inventory cell rather than weight (see tips on dropping loot below).
 
 Item tables (with value per Inventory cell):
 - [Loot items](docs/bimr.md) - Various loot items, sorted value value per cell (not in tables below)
@@ -12,7 +12,7 @@ Item tables (with value per Inventory cell):
 Min/maxing experience gain (XP):
 - [NPC/mob table](docs/npc.md) - To min/max your XP gains! (i.e. maximize XP with minimal bullets)
 
-<u>Random tips for the loot goblin:</u>
+<ins>Random tips for the loot goblin:</ins>
 - You can drop off loot anywhere/anytime in a raid - rather than lugging everything around. This way, you'll minimize your stamina loss. Press Tab and you'll notice the right pane says "Ground".
   - I drop off multiple such boxes throughout a raid and come back to them later.
   - For example, before entering the Makeshift camp's laboratory, drop everything you don't need by the entrance.

@@ -1,3 +1,7 @@
+# Ammo value
+
+Price/cell is for full stack
+
 ₽/cell | ₽/bullet | stack size | name | label
 --:|--:|--:|:--|:--
 45600 | 380 | 120 | ammo_762x51_m61 | 7.62x51mm M61

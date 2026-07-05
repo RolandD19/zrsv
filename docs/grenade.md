@@ -1,6 +1,6 @@
 # Grenade value
 
-Note #1: Mine's full price is ₽4000.
+Note #1: Mine's full price is ₽4000.<br/>
 Note #2: Some grenade stats thrown in (pun intended).
 
 ₽/cell | throw_max | fuse_time | damage_max | radius_max_damage | name | label

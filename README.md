@@ -21,12 +21,13 @@ The tables below should help the loot-goblin-min-max player (for money and XP). 
 
 ## Random tips for the loot goblin
 
-- You can **drop off loot anywhere/anytime** in a raid - rather than lugging everything around. This way, you'll minimize your stamina loss. Press Tab and you'll notice the right pane says "Ground".
-  - I drop off multiple such boxes throughout a raid and come back to them later.
+- You can **drop off loot anywhere/anytime** in a raid - rather than lugging everything around. This way, you'll minimize your stamina loss. Press Tab and you'll notice the right pane says "Ground". Moving items there will result in a box on the ground.
+  - I drop multiple items throughout a raid, mark them on the map, and come back to them later.
   - For example, before entering the Makeshift camp's laboratory, drop everything you don't need by the entrance.
   - Create these boxes in a "safe" area (somewhere with cover), so you're a bit more protected from wandering NPCs/mobs.
 - Do this at the border of the **extract zone**. You can create multiple boxes right on top of one another. Then - when you're ready to leave - move unencumbered into the extract zone (i.e. just on the otherside of the boxes) and pick/choose what you want. Make sure to watch the extract timer if you're not in Inventory and press Tab (to reset the timer) if you're not ready to leave.
   - If you have the Mule hunter perk, then you can just walk slowly into extract rather than selecting your items from within the zone.
+  - You can do all this within the extract zone, but then you'll have to mind the timer more often.
   - One extract zone per raid will usually have some kind of **extract camper**, usually a hunter but sometimes mobs.
 - If you're going to scrap weapons, remember to take the attachments/ammo off, as those do not contribute the weapon scrap you get.
 - If you intend on crafting bunker/hideout modules, collect and save rare items early: bolt cutters, car batteries, propane tanks

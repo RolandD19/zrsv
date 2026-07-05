@@ -2,13 +2,16 @@
 
 - [Difficulty settings](docs/difficulty.md) - Compare the difficulty settings
 - [Gun skills table](docs/gun-skills.md) - Full description of all gun skills
-- [Loot items](docs/bimr.md) - Loot items, sorted value value per cell
-- [Weapons (value)](docs/weapon.cell.md) - Sorted by value per cell
-- [Armor value](docs/armor.md) - Sorted by value
-- [Ammo value](docs/ammo.md) - Sorted by stack value
 
-## Prev test
+Item tables (with value per Inventory cell):
+- [Loot items](docs/bimr.md) - Various loot items, sorted value value per cell (not in tables below)
+- [Weapons](docs/weapon.cell.md) - Sorted by value per cell
+- [Armor](docs/armor.md) - Sorted by value
+- [Ammo](docs/ammo.md) - Sorted by stack value
+- [Grenades](docs/ammo.md) - Sorted by stack value
 
-Price | Item
-:--|:--
-3000 | Gun
+<!-- ## Prev test -->
+
+<!-- Price | Item -->
+<!-- :--|:-- -->
+<!-- 3000 | Gun -->

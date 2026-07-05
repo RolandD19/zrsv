@@ -32,7 +32,7 @@ The tables below should help the loot-goblin-min-max player (for money and XP). 
 - If you intend on crafting bunker/hideout modules, collect and save rare items early: bolt cutters, car batteries, propane tanks
 
 
-## Other min/maxing
+## XP and other min/maxing
 
 - [NPC/mob table](docs/npc.md) - Maximize XP with minimal bullets!
 - You can **switch out** your bunker modules now. In my current run, I've made all the modules (except Garden and Lights kit) to their max levels. When I leave for a raid, I switch out my Ammo Producer, Scavenger, and Workshop for Shooting Range, Infirmary, and Gym as those give in-raid buffs. When I return, I put the first three back in, and collect the materials from Ammo Producer and Scavenger. Materials-giving modules seem to reset like that bunker traders (7AM).

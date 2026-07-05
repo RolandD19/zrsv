@@ -4,55 +4,207 @@ Note #1: Sorted by rubles (₽) per inventory cell.
 
 ₽/cell | ₽ | type | name | label
 --:|--:|:-:|:--|:--
-180000 | 6 | 62 | 200 | 180000 6 62 200 15 armor_end_game            Mutated crystal armor 180000 6 62 200 15 armor_end_game Mutated crystal armor
-140000 | 6 | 25 | 30 | 140000 6 25  30 10 armor_killa_2             Kibba armour 140000 6 25 30 10 armor_killa_2 Kibba armour
-130000 | 6 | 62 | 120 | 130000 6 62 120 32 armor_boss_city           Valentin armor 130000 6 62 120 32 armor_boss_city Valentin armor
-130000 | 6 | 55 | 125 | 130000 6 55 125 10 armor_horizon_boss        Commander Voss suit 130000 6 55 125 10 armor_horizon_boss Commander Voss suit
-130000 | 5 | 45 | 250 | 130000 5 45 250 28 armor_seva                SEVA Suit 130000 5 45 250 28 armor_seva SEVA Suit
-125000 | 6 | 25 | 30 | 125000 6 25  30 40 armor_killa               Kibba armour 125000 6 25 30 40 armor_killa Kibba armour
-120000 | 6 | 62 | 150 | 120000 6 62 150 30 armor_watcher_devil       WA Devil suit 120000 6 62 150 30 armor_watcher_devil WA Devil suit
-115000 | 6 | 37 | 75 | 115000 6 37  75 25 armor_horizon             Horizon suit 115000 6 37 75 25 armor_horizon Horizon suit
-100000 | 5 | 50 | 100 | 100000 5 50 100 40 armor_pumpkin             Pumpkin armor 100000 5 50 100 40 armor_pumpkin Pumpkin armor
-95000 | 6 | 60 | 100 |  95000 6 60 100 35 armor_watcher_cyclops     WA Cyclops suit 95000 6 60 100 35 armor_watcher_cyclops WA Cyclops suit
-93000 | 6 | 60 | 100 |  93000 6 60 100 35 armor_loner_cyclops       Standard Cyclops suit 93000 6 60 100 35 armor_loner_cyclops Standard Cyclops suit
-92000 | 6 | 45 | 180 |  92000 6 45 180 30 armor_watcher_3           Armor WA-3 92000 6 45 180 30 armor_watcher_3 Armor WA-3
-85000 | 6 | 60 | 100 |  85000 6 60 100 35 armor_faction2_cyclops    Crimson Cyclops suit 85000 6 60 100 35 armor_faction2_cyclops Crimson Cyclops suit
-85000 | 6 | 60 | 100 |  85000 6 60 100 35 armor_faction1_cyclops    Military Cyclops suit 85000 6 60 100 35 armor_faction1_cyclops Military Cyclops suit
-81000 | 4 | 53 | 140 |  81000 4 53 140 35 armor_arman               Arman suit 81000 4 53 140 35 armor_arman Arman suit
-75000 | 5 | 70 | 200 |  75000 5 70 200  5 armor_rotking             Rotking Armor 75000 5 70 200 5 armor_rotking Rotking Armor
-75000 | 5 | 52 | 80 |  75000 5 52  80 30 armor_loner_3             Standard XTU-3 75000 5 52 80 30 armor_loner_3 Standard XTU-3
-73000 | 5 | 53 | 80 |  73000 5 53  80 30 armor_m_3                 99PZCX armor 73000 5 53 80 30 armor_m_3 99PZCX armor
-68000 | 5 | 38 | 130 |  68000 5 38 130 20 armor_watcher_2           Armor WA-2 68000 5 38 130 20 armor_watcher_2 Armor WA-2
-65000 | 5 | 52 | 50 |  65000 5 52  50 30 armor_faction1_2          Military AFZ-3 65000 5 52 50 30 armor_faction1_2 Military AFZ-3
-65000 | 5 | 48 | 70 |  65000 5 48  70 30 armor_faction2_2          Crimson CPR-3 65000 5 48 70 30 armor_faction2_2 Crimson CPR-3
-65000 | 5 | 44 | 130 |  65000 5 44 130 23 armor_un_3                NU03 Armor  65000 5 44 130 23 armor_un_3 NU03 Armor
-56000 | 4 | 40 | 40 |  56000 4 40  40 20 armor_m_2                 20PZCX armor 56000 4 40 40 20 armor_m_2 20PZCX armor
-50000 | 4 | 25 | 100 |  50000 4 25 100 18 armor_hunter              Hunter armor 50000 4 25 100 18 armor_hunter Hunter armor
-45000 | 4 | 30 | 30 |  45000 4 30  30 20 armor_loner_2             Standard XTU-2 45000 4 30 30 20 armor_loner_2 Standard XTU-2
-43000 | 4 | 32 | 20 |  43000 4 32  20 20 armor_faction1_1          Military AFZ-2 43000 4 32 20 20 armor_faction1_1 Military AFZ-2
-43000 | 4 | 27 | 90 |  43000 4 27  90 15 armor_watcher_1           Armor WA-1 43000 4 27 90 15 armor_watcher_1 Armor WA-1
-40000 | 4 | 35 | 80 |  40000 4 35  80 23 armor_un_2                NU02 Armor  40000 4 35 80 23 armor_un_2 NU02 Armor
-40000 | 4 | 32 | 30 |  40000 4 32  30 20 armor_faction2_1          Crimson CPR-2 40000 4 32 30 20 armor_faction2_1 Crimson CPR-2
-38900 | 4 | 37 | 20 |  38900 4 37  20 25 armor_orel                Orel armor 38900 4 37 20 25 armor_orel Orel armor
-38900 | 4 | 34 | 10 |  38900 4 34  10 23 armor_lazar               Lazar armor 38900 4 34 10 23 armor_lazar Lazar armor
-35000 | 3 | 28 | 15 |  35000 3 28  15 26 armor_bandit_4            Bandit B04 armor 35000 3 28 15 26 armor_bandit_4 Bandit B04 armor
-35000 | 3 | 25 | 100 |  35000 3 25 100  5 armor_ghillie             Ghillie suit 35000 3 25 100 5 armor_ghillie Ghillie suit
-31000 | 3 | 20 | 0 |  31000 3 20   0  5 armor_police              Police armor 31000 3 20 0 5 armor_police Police armor
-26000 | 3 | 27 | 0 |  26000 3 27   0 15 armor_faction2_0          Crimson CPR-1 26000 3 27 0 15 armor_faction2_0 Crimson CPR-1
-25000 | 3 | 30 | 30 |  25000 3 30  30 15 armor_loner_1             Standard XTU-1 25000 3 30 30 15 armor_loner_1 Standard XTU-1
-25000 | 3 | 27 | 250 |  25000 3 27 250 12 armor_scientist_3         Scientist F00K-2 25000 3 27 250 12 armor_scientist_3 Scientist F00K-2
-25000 | 3 | 21 | 60 |  25000 3 21  60 10 armor_watcher_0           Armor WA-0 25000 3 21 60 10 armor_watcher_0 Armor WA-0
-25000 | 3 | 18 | 0 |  25000 3 18   0 15 armor_faction1_0          Military AFZ-1 25000 3 18 0 15 armor_faction1_0 Military AFZ-1
-24000 | 3 | 25 | 30 |  24000 3 25  30  8 armor_m_1                 00PZCX armor 24000 3 25 30 8 armor_m_1 00PZCX armor
-22000 | 3 | 20 | 0 |  22000 3 20   0 19 armor_bandit_3            Bandit B03 armor 22000 3 20 0 19 armor_bandit_3 Bandit B03 armor
-20000 | 3 | 28 | 50 |  20000 3 28  50 13 armor_un_1                NU01 Armor  20000 3 28 50 13 armor_un_1 NU01 Armor
-15000 | 2 | 18 | 175 |  15000 2 18 175  8 armor_scientist_2         Scientist F00K-1 15000 2 18 175 8 armor_scientist_2 Scientist F00K-1
-15000 | 2 | 11 | 0 |  15000 2 11   0 10 armor_loner_0             Standard XTU-0 15000 2 11 0 10 armor_loner_0 Standard XTU-0
-11500 | 2 | 13 | 0 |  11500 2 13   0 10 armor_faction2_standard_0 Crimson CPR-0 11500 2 13 0 10 armor_faction2_standard_0 Crimson CPR-0
-11000 | 2 | 13 | 0 |  11000 2 13   0 10 armor_faction1_standard_0 Military AFZ-0 11000 2 13 0 10 armor_faction1_standard_0 Military AFZ-0
-11000 | 2 | 10 | 0 |  11000 2 10   0  5 armor_novice              Standard armor CP-00 11000 2 10 0 5 armor_novice Standard armor CP-00
-10000 | 2 | 15 | 0 |  10000 2 15   0  7 armor_bandit_2            Bandit B02 armor 10000 2 15 0 7 armor_bandit_2 Bandit B02 armor
-10000 | 2 | 14 | 0 |  10000 2 14   0  7 armor_bulletproof         Bulletproof vest 10000 2 14 0 7 armor_bulletproof Bulletproof vest
-10000 | 1 | 12 | 100 |  10000 1 12 100  5 armor_scientist_1         Scientist F00K-0 10000 1 12 100 5 armor_scientist_1 Scientist F00K-0
-5000 | 1 | 10 | 0 |   5000 1 10   0  2 armor_bandit_1            Bandit B01 armor 5000 1 10 0 2 armor_bandit_1 Bandit B01 armor
-0 | 6 | 50 | 250 |      0 6 50 250  1 armor_natale              santa claus costume 0 6 50 250 1 armor_natale santa claus costume
+15000 | 30000 | arm | repair_armor_2_low | Armor repair kit
+15000 | 15000 | key | key_oil_violet | Key to 2nd storage room of oil factory
+15000 | 15000 | inj | injector4 | Burden Injector
+12500 | 25000 | bar | gameboy | Portable console
+11000 | 11000 | inj | injector5 | Chow-Down Injector
+10000 | 40000 | bar | gamestation | Gamestation
+10000 | 10000 | key | key_oil_green | Key to 1st storage room of oil factory
+10000 | 10000 | key | key_oil_blue | Oil factory personnel key card
+10000 | 10000 | key | key_mall_svaroski | Key to the Svaruski shop in the mall
+10000 | 10000 | key | key_mall_guns_store | Key to the gun store in the mall
+10000 | 10000 | bar | fragrance | Fragrance
+10000 | 10000 | arm | repair_armor_2_high | Armor repair kit
+9000 | 18000 | weap | repair_weapon3_low | Weapon repair kit
+9000 | 9000 | weap | repair_weapon3_high | Weapon repair kit
+9000 | 9000 | bar | military_circuit | Military circuit
+8000 | 8000 | inj | injector7 | Healing Stimulant Injector
+8000 | 8000 | inj | injector6 | Rad Shield Injector
+8000 | 8000 | inj | injector2 | Endurance Booster Injector
+8000 | 8000 | bar | cpu | CPU
+7800 | 7800 | weap | repair_weapon2_high | Weapon repair kit
+7500 | 15000 | weap | repair_weapon2_low | Weapon repair kit
+7500 | 7500 | bar | bracelet_gold | Golden Bracelet
+7300 | 7300 | med | medikit_3 | Modern medikit
+7000 | 7000 | weap | repair_weapon1_high | Weapon repair kit
+7000 | 7000 | key | key_mall_extract | Key to the extraction point in the mall basement
+7000 | 7000 | bar | smartphone | Smartphone
+6800 | 6800 | bar | wristwatch_gold | Gold Wristwatch
+6750 | 13500 | weap | repair_weapon1_low | Weapon repair kit
+6500 | 6500 | bar | ssd | SSD drive
+6000 | 12000 | bar | devourer_tooth | Big's tooth
+6000 | 6000 | med | med_wound_2 | Professional medikit
+6000 | 6000 | key | key_mall_tech_store | Key to the Tech store in the mall
+6000 | 6000 | bar | devourer_meat | devourer meat
+5200 | 5200 | med | medikit_2 | Standard medikit
+5000 | 10000 | arm | repair_armor_1_low | Armor repair kit
+5000 | 5000 | cons | blue_cigarettes | Wilfon Cigarette
+5000 | 5000 | key | key_stazione_polizia | Police station key
+5000 | 5000 | key | key_sewer_passage | Sewer shortcut key
+5000 | 5000 | key | key_laboratory_suppl | Laboratory supply key
+5000 | 5000 | key | key_laboratory_makes | Laboratory entrance key
+5000 | 5000 | inj | injector3 | Body Fortifying Injector
+5000 | 5000 | inj | injector1 | Bloodsucker Injector
+5000 | 5000 | bar | ram | RAM
+5000 | 5000 | bar | cristallo_viola | Violet crystal
+4500 | 18000 | bar | electric_motor | Electric motor
+4200 | 4200 | bar | zippo_gold | Golden zippo
+4000 | 4000 | med | med_wound_1 | First aid medikit
+4000 | 4000 | key | key_mall_office | Key to the office room in the mall basement
+4000 | 4000 | bar | camera_crimson_quest | CCTV camera
+3750 | 15000 | bar | necklace_gold | Golden Necklace
+3500 | 3500 | med | medikit_1 | Improvised medikit
+3500 | 3500 | med | bandage_military | Military bandage
+3500 | 3500 | key | key_mall_turbine | Key to the turbine room in the mall basement
+3500 | 3500 | bar | wristwatch | Wristwatch
+3500 | 3500 | bar | crucifix_gold | Golden crucifix
+3200 | 3200 | bar | bracelet_silver | Silver Bracelet
+3000 | 6000 | arm | repair_armor_low | Armor repair kit
+3000 | 3000 | med | medikit_long | Medikit T-000
+3000 | 3000 | arm | repair_armor_1_high | Armor repair kit
+2500 | 2500 | cons | russian_chocolate | Premium chocolate
+2500 | 2500 | med | anti_bleed_gel | Anti bleed gel
+2500 | 2500 | bar | spider_eye | spider eye
+2500 | 2500 | bar | scientific_analyzer | Scientific analyzer
+2500 | 2500 | bar | gm_counter | gm counter
+2000 | 2000 | bar | cristallo_verde | Chemical crystal
+2000 | 2000 | bar | cristallo_red | fire crystal
+2000 | 2000 | bar | cristallo_blu | Electric crystal
+1750 | 3500 | cons | coke | Generic cola
+1600 | 1600 | cons | hamburger | Hamburger
+1500 | 3000 | arm | repair_armor_high | Armor repair kit
+1500 | 1500 | med | bandage_sterilizzata | Sterilised bandage
+1500 | 1500 | bar | usb | Usb
+1500 | 1500 | bar | spider_web | Spider Web
+1500 | 1500 | bar | coffee | Coffee
+1300 | 1300 | bar | blink_artiglio | blink's claw
+1250 | 7500 | bar | car_battery | car battery
+1250 | 5000 | bar | paper_phantom | Phantom's stash coordinate
+1250 | 5000 | bar | gas_tank | Propane tank
+1000 | 2000 | cons | red_wine | Red Wine
+1000 | 1000 | cons | stew_meat_beans | Stew with meat and beans
+1000 | 1000 | med | pills_anti_rad | Anti-rad pills
+1000 | 1000 | bar | quest_dynamite | Dynamite
+1000 | 1000 | bar | gps_marker | GPS Marker
+875 | 3500 | bar | wheel | Wheel
+850 | 850 | med | bandage | Bandage
+800 | 800 | cons | tushonka_fish | Canned fish
+800 | 800 | cons | pasta_cooked | Cooked pasta
+800 | 800 | cons | egg_cooked | Cooked egg
+800 | 800 | bar | power_bank | Power bank
+750 | 1500 | cons | mre | MRE
+700 | 1400 | bar | engine_oil | Engine Oil
+700 | 700 | cons | generic_chocolate | Generic chocolate
+700 | 700 | bar | boar_pelt | Boar pelt
+700 | 700 | bar | acqua_ossigenata | hydrogen peroxide
+650 | 650 | cons | meatballs | meatballs
+625 | 1250 | bar | shampoo | shampoo
+600 | 1200 | cons | whisky | whisky
+600 | 1200 | bar | dumbell | Dumbell
+600 | 600 | cons | red_cigarettes | Molbaro Cigarette
+600 | 600 | bar | wires | Wires
+600 | 600 | bar | ghoul_tentacles | ghoul's tentacle
+560 | 560 | bar | zombie_skin | zombie skin
+550 | 550 | bar | soap | Soap
+500 | 2000 | bar | drill | Drill
+500 | 1000 | bar | repair_radio_tower | repair kit for radio tower
+500 | 1000 | bar | repair_power_grid | Repair kit for the power grid
+500 | 500 | cons | energy_drink | Energy drink
+500 | 500 | bar | wolf_pelt | Wolf pelt
+500 | 500 | bar | spark_plug | spark plug
+500 | 500 | bar | scissors_surgery | Surgical scissors
+450 | 450 | cons | egg_boiled | Boiled egg
+450 | 450 | cons | cheese | Cheese
+425 | 850 | bar | hard_disk | Hard disk
+400 | 800 | cons | milk | Milk
+400 | 400 | cons | sandwich_salame | Sandwich with salami
+400 | 400 | cons | sandwich_butter | Sandwich with Butter
+400 | 400 | cons | meat_cooked | Cooked meat
+400 | 400 | bar | paint_white | White paint
+400 | 400 | bar | lighter | Lighter
+375 | 750 | bar | boar_fang | boar tusk
+350 | 350 | cons | sandwich_meat | Sandwich with meat
+350 | 350 | bar | zippo | Zippo lighter
+320 | 320 | cons | sandwich_wurstel | Sandwich with wurstel
+300 | 600 | cons | vodka | Vodka
+300 | 600 | bar | rope | Rope
+300 | 300 | cons | zombie_meat | zombie meat
+300 | 300 | cons | cup_tea | Cup of Tea
+300 | 300 | cons | cup_coffee | Cup of coffee
+300 | 300 | bar | tea_bag | Tea bag
+300 | 300 | bar | raw_pelt | Pelt
+290 | 290 | cons | butter | Butter
+280 | 280 | bar | copper_wire | Copper wire
+250 | 1000 | bar | toilet_paper | Toilet paper
+250 | 250 | cons | tushonka_meat | Tushonka
+250 | 250 | cons | boar_meat | boar meat
+250 | 250 | bar | injector_vuoto | Syringe
+230 | 230 | cons | chips | Chips
+220 | 220 | bar | relay | Relay
+220 | 220 | bar | battery | AAA battery
+205 | 205 | bar | fan | Fan
+200 | 800 | bar | hair_dryer | Hair dryer
+200 | 400 | bar | spray_bug | Bug spray
+200 | 200 | cons | egg | Egg
+180 | 180 | cons | salame | Salami
+180 | 180 | bar | bulb | Bulb
+175 | 350 | bar | alchool | alcohol
+160 | 160 | bar | power_outlet | Power outlet
+150 | 600 | cons | pasta | Pasta
+150 | 300 | cons | water_bottle | Bottle of water
+150 | 150 | cons | wolf_meat | Wolf meat
+150 | 150 | cons | raw_meat | Raw meat
+150 | 150 | cons | canned_beans | Canned beans
+130 | 130 | cons | wurstel | Wurstel
+125 | 500 | bar | dvd_drive | DVD drive
+125 | 250 | bar | multi_plug | Multi-plug
+120 | 240 | cons | fruit_juice | Fruit Juice
+120 | 120 | bar | rabbit_pelt | Rabbit pelt
+110 | 110 | bar | metro | Tape measure
+100 | 400 | bar | hose | Hose
+100 | 100 | cons | bread | Bread
+100 | 100 | bar | quest_transmitter | Transmitter
+100 | 100 | bar | pliers | Pliers
+92.5 | 370 | bar | pillow | pillow
+90 | 90 | bar | mail | Secret mail
+80 | 80 | cons | crackers_rotten | Crackers
+80 | 80 | cons | crackers | Crackers
+80 | 80 | bar | rags | Rags
+80 | 80 | bar | dutch_tape | duct tape
+75 | 150 | bar | bolt_cutter | Bolt cutter
+60 | 60 | bar | metal_pipe | Metal pipe
+50 | 200 | bar | pot_cooking | Cooking pot
+50 | 100 | cons | milk_rotten | Rotten Milk
+50 | 100 | bar | screwdriver | screwdriver
+40 | 80 | bar | wrench | Wrench
+40 | 40 | cons | cheese_rotten | Rotten Cheese
+40 | 40 | bar | matches | Matches
+40 | 40 | bar | carbone | charcoal
+35 | 70 | bar | hammer | Hammer
+35 | 35 | cons | egg_rotten | Rotten Egg
+32.5 | 130 | bar | paper | papers
+30 | 30 | cons | bread_rotten | Rotten Bread
+28 | 28 | cons | salame_rotten | Rotten Salami
+25 | 50 | bar | spoon | Spoon
+25 | 50 | bar | knife | Knife
+25 | 50 | bar | fork | Fork
+25 | 25 | bar | screw_nut | Screw nut
+20 | 40 | cons | water_bottle_rotten | Bottle of rotten water
+20 | 20 | bar | nail | Nail
+15 | 15 | bar | scrap_armor | scrap armor
+15 | 15 | bar | salt | Salt
+15 | 15 | bar | pepper | Pepper
+10 | 10 | bar | weather_kit | Weather station kit
+10 | 10 | bar | scrap_metal | scrap metal UNUSED
+10 | 10 | bar | scrap_med | scrap medicine
+10 | 10 | bar | scrap_material | scrap material
+10 | 10 | bar | scrap_food | scrap food
+10 | 10 | bar | scrap_ammo | scrap ammo
+10 | 10 | bar | gunpowder_red | Red gunpowder
+5 | 10 | bar | scrap_weapon | scrap weapon
+5 | 5 | bar | gunpowder_orange | Orange gunpowder
+5 | 5 | bar | gunpowder_green | Green gunpowder
+2.5 | 2.5 | bar | gunpowder_blu | Blue gunpowder
+1.7 | 10 | bar | natale_luci_kit | Lights kit
+1 | 1 | bar | roubles | Roubles

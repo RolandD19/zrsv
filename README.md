@@ -8,7 +8,7 @@ Item tables (with value per Inventory cell):
 - [Weapons](docs/weapon.cell.md) - Sorted by value per cell
 - [Armor](docs/armor.md) - Sorted by value
 - [Ammo](docs/ammo.md) - Sorted by stack value
-- [Grenades](docs/ammo.md) - Sorted by stack value
+- [Grenades](docs/grenade.md) - Sorted by stack value
 
 <!-- ## Prev test -->
 

@@ -1,3 +1,6 @@
+# Weapon values
+
+Note #1: The value of a weapon is adjusted by its durability (directly multiplication). For example, a weapon at 50% durability will be worth 50% of its full value.
 ₽/cell | ₽ | type | name | label
 --:|--:|:-:|:--|:--
 21250 | 85000 | pistol | pistol_50bmg | Pistol .50 BMG

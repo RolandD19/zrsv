@@ -9,6 +9,8 @@ Item tables (with value per Inventory cell):
 - [Ammo](docs/ammo.md) - Sorted by stack value
 - [Grenades](docs/grenade.md) - Sorted by stack value
 
+Most early/mid-game weapons are not worth taking about (even with some mods and later repairing to 100%)
+
 Min/maxing experience gain (XP):
 - [NPC/mob table](docs/npc.md) - To min/max your XP gains! (i.e. maximize XP with minimal bullets)
 

@@ -10,7 +10,7 @@ Item tables (with value per Inventory cell):
 - [Ammo](docs/ammo.md) - Sorted by stack value
 - [Grenades](docs/grenade.md) - Sorted by stack value
 
-[NPC table](docs/npc.md) - To min/max your XP gains!
+[NPC/mob table](docs/npc.md) - To min/max your XP gains!
 
 
 <!-- ## Prev test -->

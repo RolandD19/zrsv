@@ -6,12 +6,15 @@ These tables should help the loot-goblin-min-max player. Here, I focus on value 
 
 ## Item tables (with values per Inventory cell
 
+grusa:63000+15000+15000+8500+7200+12000
+
 - [Loot items](docs/bimr.md) - Various loot items, sorted value value per cell (not in tables below)
 - [Weapons](docs/weapon.cell.md) - Sorted by value per cell
 - [Armor](docs/armor.md) - Sorted by value
 - [Ammo](docs/ammo.md) - Sorted by full stack value
 - [Grenades](docs/grenade.md) - Sorted by value
 - As you can see from the tables, most early/mid-game weapons are not worth taking back from raid (even with mods and later repairing to 100%) - if your goal is to sell them.
+  - Fully-decked Grusa 4 with Vadoo scope and modern torch will still be worth only ~20K rubles per inventory cell (which is actually decent but how often. A more modestly-decked Grusa 4 (with Spec scope regular torch) is worth ~15K per cell.
 - Higher tier armors (when repaired to 100%) and full armor-piercing (BP/AP) ammo stacks tend to offer the most value (per inventory cell).
 - During mid/end-game, the items that a loot goblin takes back to sell should be worth at least 10K rubles per inventory cell. From a long raid, I find myself often gathering full stacks of 7.62x39 BP and 5.56x45 M995 (BP) ammo, each worth 30000 and 25500 rubles respectively.
 

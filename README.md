@@ -30,13 +30,13 @@ The tables below should help the loot-goblin-min-max player (for money and XP). 
   - You can do all this within the extract zone, but then you'll have to mind the timer more often.
   - One extract zone per raid will usually have some kind of **extract camper**, usually a hunter but sometimes mobs.
 - If you're going to scrap weapons, remember to take the attachments/ammo off, as those do not contribute the weapon scrap you get.
-- If you intend on crafting bunker/hideout modules, collect and save rare items early: bolt cutters, car batteries, propane tanks
+- If you intend on crafting bunker/hideout modules, collect and save rare items early: bolt cutters, car batteries, propane tanks, military circuits, etc.
 
 
 ## XP and other min/maxing
 
 - [NPC/mob table](docs/npc.md) - Maximize XP with minimal bullets!
-- You can **switch out** your bunker modules now. In my current run, I've made all the modules (except Garden and Lights kit) to their max levels. When I leave for a raid, I switch out my Ammo Producer, Scavenger, and Workshop for Shooting Range, Infirmary, and Gym as those give in-raid buffs. When I return, I put the first three back in, and collect the materials from Ammo Producer and Scavenger. Materials-giving modules seem to reset like that bunker traders (7AM).
+- You can **switch out** your bunker modules now. In my current run, I've made all the modules (except Garden and Lights kit) to their max levels. When I leave for a raid, I switch out my Ammo Producer, Scavenger, and Workshop for Shooting Range, Infirmary, and Gym as those give in-raid buffs. When I return, I put the first three back in, and collect the materials from Ammo Producer and Scavenger. Materials-giving modules seem to reset like the bunker traders (7AM).
 - As for scrapping weapons and armor, the amount of material produced is proportional to the item's value multiplied by its durability.
 
 <details>

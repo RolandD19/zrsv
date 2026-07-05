@@ -1,6 +1,6 @@
 # Armor values
 
-Note #1: The value of an armor is adjusted by its durability (directly multiplication). For example, an armor at 50% will be worth 50% of its full value.<br/>
+Note #1: The value of an armor is adjusted by its durability (directly multiplication). For example, an armor at 50% durability will be worth 50% of its full value.<br/>
 Note #2: Anomaly protection values omitted for conciseness ~~because you should be better than that! (not running into anomalies)~~
 
 ₽/cell | ₽ | class | name | label | melee | rad | fragility

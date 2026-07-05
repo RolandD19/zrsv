@@ -1,6 +1,7 @@
 # Miscellaneous loot items
 
-Note #1: Sorted by rubles (₽) per inventory cell.
+Note #1: Sorted by rubles (₽) per inventory cell.<br/>
+Note #2: Injectors, certain repair kits and electronics seem most valuable.
 
 ₽/cell | ₽ | type | name | label
 --:|--:|:-:|:--|:--

@@ -13,7 +13,7 @@ These tables should help the loot-goblin-min-max player. Here, I focus on value 
 - [Grenades](docs/grenade.md) - Sorted by value
 - As you can see from the tables, most early/mid-game weapons are not worth taking back from raid (even with mods and later repairing to 100%) - if your goal is to sell them.
 - Higher tier armors (when repaired to 100%) and full armor-piercing (BP/AP) ammo stacks tend to offer the most value (per inventory cell).
-- During mid/end-game, the items that a loot goblin takes back to sell should be be worth at least 10K rubles per cell. From a long raid, I find myself often gathering full stacks of 7.62x39 BP and 5.56x45 M995 (BP) ammo, each worth 30000 and 25500 rubles respectively.
+- During mid/end-game, the items that a loot goblin takes back to sell should be worth at least 10K rubles per inventory cell. From a long raid, I find myself often gathering full stacks of 7.62x39 BP and 5.56x45 M995 (BP) ammo, each worth 30000 and 25500 rubles respectively.
 
 ## Random tips for the loot goblin
 

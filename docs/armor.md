@@ -3,7 +3,7 @@
 Anomaly protection values omitted for conciseness ~~because you should be better than that! (not running into anomalies)~~
 
 ₽/cell | ₽ | class | name | label | melee | rad | fragility
---:|--:|:-:|:--|:--|:--|:-:|:-:|:-:
+--:|--:|:-:|:--|:--|:-:|:-:|:-:
 45000 | 180000 | 6 | armor_end_game | Mutated crystal | Mutated | 62 | 200 | 15
 35000 | 140000 | 6 | armor_killa_2 | Kibba | Kibba | 25 | 30 | 10
 32500 | 130000 | 6 | armor_boss_city | Valentin | Valentin | 62 | 120 | 32

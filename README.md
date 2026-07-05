@@ -44,6 +44,8 @@ The tables below should help the loot-goblin-min-max player (for money and XP). 
 I haven't done the math but - because of the **high XP from rotfangs** - I think clearing the Swamp map's sewer will give about as much XP as clearing the Makeshift Camp's laboratory (even including the second lab area that has multiple infestations).
 </details>
 
+[All above tables](docs/all-tables.md) - Open one at a time
+
 
 ## Other useful tables:
 

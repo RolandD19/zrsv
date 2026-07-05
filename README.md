@@ -1,10 +1,11 @@
 # ZERO Sievert Tables and Guides
 
 These tables should help the loot-goblin-min-max player. Here, I focus on value per inventory cell rather than weight because you can drop loot anywhere (see tips below on dropping loot by extract).
-- _This is just an informational wiki (no mods) and based off the vanilla game only._
-- _All the table info were taken from the game's JSON files._
+- _This is just an informational wiki (no mods) and based off the vanilla game._
+- _All the tables' info were taken from the game's JSON files._
 
-<ins>Item tables</ins> (with values per Inventory cell):
+## Item tables (with values per Inventory cell
+
 - [Loot items](docs/bimr.md) - Various loot items, sorted value value per cell (not in tables below)
 - [Weapons](docs/weapon.cell.md) - Sorted by value per cell
 - [Armor](docs/armor.md) - Sorted by value
@@ -14,7 +15,8 @@ These tables should help the loot-goblin-min-max player. Here, I focus on value 
 - Higher tier armors (when repaired to 100%) and full BP ammo stacks tend to offer the most value (per inventory cell).
 - During mid/end-game, the items that a loot goblin takes back to sell should be be worth at least 10K rubles per cell. From a long raid, I find myself often gathering full stacks 7.62x39 BP and 5.56x45 M995 (BP) ammo, each worth 30000 and 25500 respectively.
 
-<ins>Random tips for the loot goblin:</ins>
+## Random tips for the loot goblin
+
 - You can drop off loot anywhere/anytime in a raid - rather than lugging everything around. This way, you'll minimize your stamina loss. Press Tab and you'll notice the right pane says "Ground".
   - I drop off multiple such boxes throughout a raid and come back to them later.
   - For example, before entering the Makeshift camp's laboratory, drop everything you don't need by the entrance.

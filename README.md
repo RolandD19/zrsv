@@ -5,6 +5,7 @@
 - [Loot items](docs/bimr.md) - Loot items, sorted value value per cell
 - [Weapons (value)](docs/weapon.cell.md) - Sorted by value per cell
 - [Armor value](docs/armor.md) - Sorted by value
+- [Ammo value](docs/ammo.md) - Sorted by stack value
 
 ## Prev test
 
